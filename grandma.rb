@@ -1,5 +1,5 @@
 def speak_to_grandma
-if "string" == "I LOVE YOU GRANDMA!"
+if string == "I LOVE YOU GRANDMA!"
 puts "I LOVE YOU TOO PUMPKIN!"
 end # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
