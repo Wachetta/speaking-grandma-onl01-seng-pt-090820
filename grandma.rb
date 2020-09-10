@@ -1,5 +1,5 @@
-def speak_to_grandma(grandma)
-if "I LOVE YOU GRANDMA!" == "I LOVE YOU GRANDMA!"# Write a speak_to_grandma method.
+def speak_to_grandma
+if "string" == "I LOVE YOU GRANDMA!"
 puts "I LOVE YOU TOO PUMPKIN!"
 end # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
