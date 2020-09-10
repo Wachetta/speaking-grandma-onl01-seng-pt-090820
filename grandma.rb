@@ -1,4 +1,4 @@
-def speak_to_grandma
+def speak_to_grandma(relative)
 if "I LOVE YOU GRANDMA!" == "I LOVE YOU GRANDMA!"
 puts "I LOVE YOU TOO PUMPKIN!"
 end # Whatever you say to grandma, she should respond with
